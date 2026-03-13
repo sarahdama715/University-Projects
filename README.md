@@ -4,7 +4,7 @@ The projects are organized by courses done and each course folder contains one o
 
 Courses included are:
 
-introduction to programming
+Introduction to programming
 
 Introduction to Web-Design and Application
 
@@ -21,6 +21,7 @@ Computer Networks and Telecommunications
 System Analysis and Design
 
 Object Oriented Analysis, Design and Programming.
+
 
 The Technologies used are:
 HTML
@@ -39,7 +40,9 @@ SQL
 
 UML and System Modelling.
 
+
 This repository serves as a portfolio for my academic work, demonstrating my skills in programming, web design and development, system anlysis and database design.
+
 
 AUTHOR:
 Sarah Dama Ngumbao
